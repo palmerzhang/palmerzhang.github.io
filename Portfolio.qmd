@@ -2,5 +2,7 @@
 title: "Portfolio"
 editor: visual
 ---
-hi, this is palmer
+暫時還沒施工，稍等。
+工程仲未開始，多謝等候少少。
+NO construction work yet, please wait a bit.
 ---
