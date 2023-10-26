@@ -1,11 +1,28 @@
 ---
-title: "palmerzhang"
+title: "Palmer, Congzhi Zhang"
 ---
 
-This is a Quarto website.
+![](images/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202023-10-26%2016.47.18.png){fig-align="center" width="253"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+張 聰知
 
-```{r}
-1 + 1
+He/Him\
+Born in April 7^th^, 2001\
+Rizhao, Shandong -\> Hong Kong
+
+Bachelor of Social Science in *Greater China Study* in EdUHK\
+Master of Social Science in *Media, Culture and Creative Cities* in HKU
+
+`*`
+
+**寫作者與攝影師，藝術學習者。\
+熱愛扁平的可被印刷的產物，也偶爾製作音樂、笨拙的短片、像兒童的塗鴉和其它情緒化的多媒體內容。擅长找到自然發生的、未經過人為干預的視角和審美標準。**
+
+Writer & Photographer, also a spontaneous art learner.\
+Passionate about flat, printable products, but also occasionally makes home-made music, clumsy short films, child-like doodles and other emotional multimedia content.\
+Prefer a naturally occurring, untouched perspective and aesthetic standards.
+
+\-
+
+```{}
 ```

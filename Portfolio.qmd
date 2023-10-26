@@ -1,0 +1,6 @@
+---
+title: "Portfolio"
+editor: visual
+---
+hi, this is palmer
+---

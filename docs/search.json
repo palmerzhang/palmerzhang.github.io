@@ -1,9 +1,30 @@
 [
   {
+    "objectID": "Intro.html",
+    "href": "Intro.html",
+    "title": "Intro",
+    "section": "",
+    "text": "搭建这个网页的初衷，是在信息安全无法被保障的语境下做一点私人的、去平台化的实践。尽管它很简陋，像我在动森的岛上还住在原始的小屋一样。但是把喜欢的东西扔进来这件事很酷，从背包里、脑子里、眼睛里掏出来这些信息整理在这里，做这个小小的archive，让我觉得像收拾桌面一样舒服和愉悦。\n谢谢你来花时间看，很高兴认识你。\nThe idea behind this web page was to do a bit of private, de-platforming practice in a context where information security cannot be guaranteed. Thanks for the help of Shirley who warmly provide the instructions of practicing with R, and also the detailed guideline by @Joshua French in his YouTube chanel. Even though it looks humble, I know that, seeming like the original hut I still live in on the island of Animal Crossing. But it really feels cool to throw in things I like, pulling all the information out of my backpack, my brain, and my eyes and organising it here. To tell the truth, doing this little archive thing, makes me feel as comfortable and happy as cleaning up my desktop.Thank you for coming to learn about me on my island.\nFrom: palmer🚶‍♂️"
+  },
+  {
+    "objectID": "Info.html",
+    "href": "Info.html",
+    "title": "Contact",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "palmerzhang",
+    "title": "Palmer, Congzhi Zhang",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "張 聰知\nHe/Him\nBorn in April 7th, 2001\nRizhao, Shandong -> Hong Kong\nBachelor of Social Science in Greater China Study in EdUHK\nMaster of Social Science in Media, Culture and Creative Cities in HKU\n*\n寫作者與攝影師，藝術學習者。\n熱愛扁平的可被印刷的產物，也偶爾製作音樂、笨拙的短片、像兒童的塗鴉和其它情緒化的多媒體內容。擅长找到自然發生的、未經過人為干預的視角和審美標準。\nWriter & Photographer, also a spontaneous art learner.\nPassionate about flat, printable products, but also occasionally makes home-made music, clumsy short films, child-like doodles and other emotional multimedia content.\nPrefer a naturally occurring, untouched perspective and aesthetic standards.\n-"
+  },
+  {
+    "objectID": "Portfolio.html",
+    "href": "Portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "hi, this is palmer"
   }
 ]

@@ -3,16 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "palmerzhang"
+  title: "palmer zhang"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Intro.qmd
+      - Portfolio.qmd
+      - Info.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: litera
+    font: italic bold 1.2em "Fira Sans", sans-serif;
+    mainfont: courier new
+    fontsize: 1.0rem
+    fontcolor: "#FF0000"
+    linkcolor: "#0042FF"
     css: styles.css
     toc: true
 
